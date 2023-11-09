@@ -2,13 +2,13 @@
 import './App.css';
 
 // Components
-import Example from '../Example/Example';
+import Fangraphs from '../Fangraphs/Fangraphs';
 
 function App() {
 
     return (<>
-        <h1>Your JSX Here</h1>
-        <Example />
+        <h1>Fangraphs</h1>
+        <Fangraphs />
     </>)
 }
 
